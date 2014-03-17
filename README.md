@@ -11,11 +11,19 @@ Django app that creates an interactive way for students to post and view travel 
 
 For example, a student that does not have a car is returning home for spring break in Detroit. The student views posted trips by fellow Tar Heels and finds another student is going the same way and looking for someone to help make the trip. 
 
+
 Requirements:
+
 -User Registration 
+
 -User Posting forms	
+
 -Multiple Views:
+
 -Interactive Map with path lines
+
 -Calendar
+
 -Sortable List
+
 
